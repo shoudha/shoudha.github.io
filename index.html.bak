@@ -43,7 +43,7 @@
               <td style="padding:16px;width:100%;vertical-align:middle">
                 <h2>Research</h2>
                 <p>
-                  I'm interested in Wireless Communication algorithm development, Wireless Localization using Wi-Fi, Bluetooth, GNSS signals, Machine Learning model quantization pipeline development. Some papers are <span class="highlight">highlighted</span>.
+                  I'm interested in Wireless Communication algorithm development, Wireless Localization using Wi-Fi, Bluetooth, GNSS signals, Machine Learning model quantization pipeline development.
                 </p>
               </td>
             </tr>
@@ -55,7 +55,7 @@
 
             <tr>
               <td style="padding:16px;width:20%;vertical-align:middle">
-                <img src="images/clean_promo.jpg" alt="clean-usnob" width="160" height="160">
+                <img src="images/open_pose.jpg" alt="clean-usnob" width="160" height="160">
               </td>
               <td style="padding:8px;width:80%;vertical-align:middle">
                 <a href="https://ieeexplore.ieee.org/abstract/document/10609249">
@@ -65,7 +65,7 @@
 				Mohamed Hany Mahmoud, <strong>Shamman Noor Shoudha</strong>, Mohamed Abdallah, <a href="https://personal.utdallas.edu/~aldhahir/">Naofal Al-Dhahir</a>
                 <br>
                 <em>IEEE Communications Letters</em>, 2024
-                <p>We use Convolutional Neural Network to estimate Wi-Fi signal-based location.</p>
+                <p>We use multi-stage Convolutional Neural Network to estimate Wi-Fi signal-based location.</p>
               </td>
             </tr>
 			
@@ -79,11 +79,31 @@
                   <span class="papertitle">WiFi 5GHz CSI-based single-AP localization with centimeter-level median error</span>
                 </a>
                 <br>
-				<strong>Shamman Noor Shoudha</strong>, <a href="https://personal.utdallas.edu/~torlak/">Sherief Helwa</a>, Jayson P Van Marter, <a href="https://personal.utdallas.edu/~torlak/">Murat Torlak</a>, <a href="https://personal.utdallas.edu/~aldhahir/">Naofal Al-Dhahir</a>
+				<strong>Shamman Noor Shoudha</strong>, Sherief Helwa, Jayson P Van Marter, <a href="https://personal.utdallas.edu/~torlak/">Murat Torlak</a>, <a href="https://personal.utdallas.edu/~aldhahir/">Naofal Al-Dhahir</a>
 
                 <br>
                 <em>IEEE Access</em>, 11, 2023
-                <p>We apply model-based localization algorithms to achieve centimeter-level accuracy in challenging multipath environments.</p>
+				<p>We apply model-based localization algorithms to achieve centimeter-level accuracy in challenging multipath environments.</p>
+
+              </td>
+            </tr>
+			
+			
+			
+			
+            <tr>
+              <td style="padding:16px;width:20%;vertical-align:middle">
+                <img src="images/bridge_oneway_twoway.jpg" alt="clean-usnob" width="160" height="160">
+              </td>
+              <td style="padding:8px;width:80%;vertical-align:middle">
+                <a href="https://ieeexplore.ieee.org/abstract/document/10156820">
+                  <span class="papertitle">Bridging the performance gap between two-way and one-way CSI-based 5 GHz WiFi ranging</span>
+                </a>
+                <br>				
+				Sherief Helwa, Jayson P Van Marter, <strong>Shamman Noor Shoudha</strong>, Matan Ben-Shachar, Yaron Alpert, Anand G Dabak, <a href="https://personal.utdallas.edu/~torlak/">Murat Torlak</a>, <a href="https://personal.utdallas.edu/~aldhahir/">Naofal Al-Dhahir</a>
+                <br>
+                <em>IEEE Access</em>, 11, 2023
+                <p>We bridge WiFi ranging performance using one-way Channel State Information (CSI) compared to two-way CSI.</p>
               </td>
             </tr>
 			
@@ -104,6 +124,86 @@
                 <br>
                 <em>IEEE Access</em>, 10, 2022
                 <p>We apply model-based ranging algorithms to achieve decimeter-level accuracy in challenging multipath environments.</p>
+              </td>
+            </tr>
+			
+			
+			
+            <tr>
+              <td style="padding:16px;width:20%;vertical-align:middle">
+                <img src="images/itc_2.jpg" alt="clean-usnob" width="160" height="160">
+              </td>
+              <td style="padding:8px;width:80%;vertical-align:middle">
+                <a href="https://ieeexplore.ieee.org/abstract/document/9751073">
+                  <span class="papertitle">Joint LTE Uplink Interference and Multipath Suppression for Aeronautical Telemetry using MMSE Interference Canceler</span>
+                </a>
+                <br>				
+				<strong>Shamman Noor Shoudha</strong>, <a href="https://personal.utdallas.edu/~saquib/">Mohammad Saquib</a>
+
+
+                <br>
+                <em>International Foundation for Telemetering</em>, 2019
+                <p>We address the use of a minimum-mean-square-error (MMSE) interference canceler for mitigating the Long-Term Evolution (LTE) uplink interference and multipath in Aeronautical Telemetry system.</p>
+              </td>
+            </tr>
+			
+			
+			
+            <tr>
+              <td style="padding:16px;width:20%;vertical-align:middle">
+                <img src="images/itc_1.jpg" alt="clean-usnob" width="160" height="160">
+              </td>
+              <td style="padding:8px;width:80%;vertical-align:middle">
+                <a href="https://ieeexplore.ieee.org/abstract/document/9751073">
+                  <span class="papertitle">Co-Existence of Aeronautical Mobile Telemetry and LTE Systems in the S-Band</span>
+                </a>
+                <br>				
+				<strong>Shamman Noor Shoudha</strong>, <a href="https://personal.utdallas.edu/~saquib/">Mohammad Saquib</a>
+
+
+                <br>
+                <em>International Foundation for Telemetering</em>, 2019
+                <p>We analyze the effect of Long-Term Evolution (LTE) uplink interference on the performance of Aeronautical Telemetry Upper L-band users. </p>
+              </td>
+            </tr>
+			
+			
+			
+            <tr>
+              <td style="padding:16px;width:20%;vertical-align:middle">
+                <img src="images/robot_hand.jpg" alt="clean-usnob" width="160" height="160">
+              </td>
+              <td style="padding:8px;width:80%;vertical-align:middle">
+                <a href="https://ieeexplore.ieee.org/abstract/document/9751073">
+                  <span class="papertitle">Real time hand movement controlled robotic arm for risk prevention</span>
+                </a>
+                <br>				
+				<strong>Shamman Noor Shoudha</strong>, <a href="https://personal.utdallas.edu/~saquib/">Mohammad Saquib</a>
+				<strong>Shamman Noor Shoudha</strong>, Jamal Ahmed Shohan, Mashrura Sharmin Waresi, Asif Ahmed, <a href="https://sites.google.com/view/asirintisarkhan16/">Asir Intisar</a>Khan, <a href="https://eee.buet.ac.bd/people/faculty/dcs">Celia Shahnaz</a>, <a href="https://eee.buet.ac.bd/people/faculty/dsaf">Sheikh Anwarul Fattah</a>
+
+                <br>
+                <em>IEEE Region 10 Humanitarian Technology Conference (R10-HTC)</em>, 2017
+                <p>We propose an "Artificial Human Hand Model" which can precisely follow the real movements of human hand by means of image processing thereby avoiding sensor noise and damage and providing more adjustable response. </p>
+              </td>
+            </tr>
+			
+			
+			
+            <tr>
+              <td style="padding:16px;width:20%;vertical-align:middle">
+                <img src="images/emotion.jpg" alt="clean-usnob" width="160" height="160">
+              </td>
+              <td style="padding:8px;width:80%;vertical-align:middle">
+                <a href="https://ieeexplore.ieee.org/abstract/document/8468871">
+                  <span class="papertitle">Audio visual emotion recognition using cross correlation and wavelet packet domain features</span>
+                </a>
+                <br>				
+				<strong>Shamman Noor Shoudha</strong>, <a href="https://personal.utdallas.edu/~saquib/">Mohammad Saquib</a>
+				<strong>Shamman Noor Shoudha</strong>, Ehsanul Dhrubo, Ahmed Tahsin Minhaz, <a href="https://eee.buet.ac.bd/people/faculty/dcs">Celia Shahnaz</a>, <a href="https://eee.buet.ac.bd/people/faculty/dsaf">Sheikh Anwarul Fattah</a>
+
+                <br>
+                <em>IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE)</em>, 2017
+                <p>We describe a method for recognizing emotions from human Speech and visual data for machine to understand.</p>
               </td>
             </tr>
 			
@@ -131,14 +231,10 @@
 			  </td>
 			  <td style="padding:8px;width:80%;vertical-align:middle">
 				<a href="https://drive.google.com/file/d/1YvRx-4hrZoCk-nl6OgVJZlHAqOiN5hWq/view?usp=sharing">
-				  <span class="papertitle">PAPER TITLE</span>
+				  <span class="papertitle">Wi-Fi Sniffer</span>
 				</a>
-				<br>
-				<strong>Jonathan T. Barron</strong>, <a href="http://stumm.ca/">Christopher Stumm</a>, <a href="http://cosmo.nyu.edu/hogg/">David W. Hogg</a>, <a href="http://www.astro.princeton.edu/~dstn/">Dustin Lang</a>, <a href="http://cs.nyu.edu/~roweis/">Sam Roweis</a>
-				<br>
 				<em>The Astronomical Journal</em>, 135, 2008
-				<p>We use computer vision techniques to identify and remove diffraction spikes and reflection halos in the USNO-B Catalog.</p>
-				<p>In use at <a href="http://www.astrometry.net">Astrometry.net</a></p>
+				<p>Developed an ERP-OFDM receiver for IEEE 802.11g Wi-Fi packets (2.400-2.4835 GHz) with operations: signal detection, frame synchronization, CFO compensation, phase tracking and correction, channel estimation and equalization, RF compensation, PHY and MAC PDUs decoding, and network SSID capture</p>
 			  </td>
 			</tr>
 
