@@ -256,7 +256,7 @@
 				<br>
 
 				<p>
-				Developed an ERP-OFDM receiver for IEEE 802.11g Wi-Fi packets (2.400-2.4835 GHz) with operations: signal detection, frame synchronization, CFO compensation, phase tracking and correction, channel estimation and equalization, RF compensation, PHY and MAC PDUs decoding, and network SSID capture
+				I implemented this <a href="https://ieeexplore.ieee.org/abstract/document/8272484">paper</a> on Convolutional Neural Network (CNN)-based Minimum Mean Square Error (MMSE) channel estimator design to achieve significantly reduced complexity.
 				</p>
 				<p>[<a href="https://github.com/shoudha/Learning-MMSE-Estimator">Code</a>]</p>
 
@@ -278,8 +278,7 @@
 				<br>
 
 				<p>
-				Developed an ERP-OFDM receiver for IEEE 802.11g Wi-Fi packets (2.400-2.4835 GHz) with operations: signal detection, frame synchronization, CFO compensation, phase tracking and correction, channel estimation and equalization, RF compensation, PHY and MAC PDUs decoding, and network SSID capture
-				</p>
+				We implemented Support Vector Machine (SVM) technique-based detection and equalization system with Model Simulation Results and Decision Boundaries BER Analysis for non-linear equalization methods.			</p>
 				<p>[<a href="https://github.com/shoudha/SVM-Nonlinear-Equalization">Code</a>]</p>
 
 			  </td>
@@ -296,7 +295,7 @@
 				  <span class="papertitle">Speech denoising using Fully Connected Neural Networks</span>
 				</a>
 				<br>
-				<em>Groupmates: Bhaskar Raj Upadhyay</em>
+				<em>Groupmates: Soundarya Srinivasan </em>
 				<br>
 
 				<p>
@@ -321,7 +320,7 @@
 				<br>
 
 				<p>
-				Developed an ERP-OFDM receiver for IEEE 802.11g Wi-Fi packets (2.400-2.4835 GHz) with operations: signal detection, frame synchronization, CFO compensation, phase tracking and correction, channel estimation and equalization, RF compensation, PHY and MAC PDUs decoding, and network SSID capture
+				We developed a method to encrypt sensor raw data, read from the sensors connected to Raspberry Pi. We use AES-128 to decrypt data and transferred the filtered data according to the Role (Role-Bases Access Control) using Key Management.				
 				</p>				
 				<p>[<a href="https://github.com/shoudha/Raspberry-Pi-User-Management">Code</a>]</p>
 
