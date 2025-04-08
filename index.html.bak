@@ -38,6 +38,20 @@
               </td>
             </tr>
           </tbody></table>
+		  
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+              <tr>
+              <td style="padding:16px;width:100%;vertical-align:middle">
+                <h2>Skills</h2>
+                <p>
+                  Machine Learning Model Quantization, Wireless Communication Signal Processing, Python, MATLAB
+                </p>
+              </td>
+            </tr>
+          </tbody>
+		  </table>
+		  
+		  
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
               <tr>
               <td style="padding:16px;width:100%;vertical-align:middle">
@@ -299,7 +313,7 @@
 				<br>
 
 				<p>
-				Developed an ERP-OFDM receiver for IEEE 802.11g Wi-Fi packets (2.400-2.4835 GHz) with operations: signal detection, frame synchronization, CFO compensation, phase tracking and correction, channel estimation and equalization, RF compensation, PHY and MAC PDUs decoding, and network SSID capture
+				We developed a Fully Connected Neural Network (FCNN)-based speech denoising method for collected real-world noisy data (speech and machinery).
 				</p>
 				<p>[<a href="https://github.com/shoudha/FCNN-Speech-Denoising">Code</a>]</p>
 			  </td>
@@ -342,7 +356,7 @@
 				<br>
 
 				<p>
-				Developed an ERP-OFDM receiver for IEEE 802.11g Wi-Fi packets (2.400-2.4835 GHz) with operations: signal detection, frame synchronization, CFO compensation, phase tracking and correction, channel estimation and equalization, RF compensation, PHY and MAC PDUs decoding, and network SSID capture
+				We implemented an ECG signal classifier in MATLAB and developed an Android app to scan real-world ECG signal and perform real-time classification on smartphone.
 				</p>				
 				<p>[<a href="https://github.com/shoudha/ECG-Classifier-Android">Code</a>]</p>
 
